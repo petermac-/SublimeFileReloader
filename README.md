@@ -4,9 +4,9 @@ ReloadAllFiles is a plugin for [Sublime Text](https://www.sublimetext.com/) that
 
 ## Installation
 
-### Using Package Control:
+### Package Control
 
-[Package Control](https://packagecontrol.io/installation)
+Installation through [Package Control](https://packagecontrol.io/installation) is recommended.
 
 * Bring up the Command Palette (Command+Shift+P on OS X, Control+Shift+P on Linux/Windows).
 * Select `Package Control: Install Package`
