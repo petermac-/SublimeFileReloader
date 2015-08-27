@@ -1,6 +1,6 @@
 # ReloadAllFiles
 
-ReloadAllFiles is a plugin for [Sublime Text][https://www.sublimetext.com/] that allows you to reload all open files using a hotkey.
+ReloadAllFiles is a plugin for [Sublime Text](https://www.sublimetext.com/) that allows you to reload all open files using a hotkey.
 
 ## Installation
 
