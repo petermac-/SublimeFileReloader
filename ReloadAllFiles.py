@@ -28,8 +28,3 @@ class ReloadAllFilesCommand(sublime_plugin.WindowCommand):
 
     # Back to current view
     window.focus_view(current_view)
-
-class SaveAndReloadCommand(sublime_plugin.WindowCommand):
-  def run(self):
-    self.window.run_command("save")
-    self.window.run_command("reload_all_files")
