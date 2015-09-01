@@ -1,6 +1,6 @@
-# ReloadAllFiles
+# FileReloader
 
-ReloadAllFiles is a plugin for [Sublime Text](https://www.sublimetext.com/) that allows you to reload all open files using a hotkey.
+FileReloader is a plugin for [Sublime Text](https://www.sublimetext.com/) that allows you to reload all open files using a hotkey.
 
 ## Installation
 
@@ -10,7 +10,7 @@ Installation through [Package Control](https://packagecontrol.io/installation) i
 
 * Bring up the Command Palette (Command+Shift+P on OS X, Control+Shift+P on Linux/Windows).
 * Select `Package Control: Install Package`
-* Search for and select `ReloadAllFiles`
+* Search for and select `FileReloader`
 
 ## Usage
 
