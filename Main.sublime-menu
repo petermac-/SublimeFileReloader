@@ -23,14 +23,14 @@
                 "children":
                 [
                     {
-                        "caption": "ReloadAllFiles",
-                        "id": "reload-all-files",
+                        "caption": "FileReloader",
+                        "id": "file-reloader",
                         "children":
                         [
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/ReloadAllFiles/README.md"
+                                    "file": "${packages}/FileReloader/README.md"
                                 },
                                 "caption": "README"
                             },
@@ -38,7 +38,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/ReloadAllFiles/Default.sublime-keymap"
+                                    "file": "${packages}/FileReloader/Default.sublime-keymap"
                                 },
                                 "caption": "Key Bindings – Default"
                             },
